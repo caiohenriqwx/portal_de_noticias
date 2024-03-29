@@ -1,0 +1,16 @@
+body {
+    background-size: 100%;
+    font-family: "Euclid Circular A", "Poppins";
+}
+
+td {
+    background-color: #1f2635;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    color: aliceblue;
+}
+
+h1 {
+    font-size: 400%;
+}
